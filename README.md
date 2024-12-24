@@ -41,7 +41,7 @@ This repository provides a comprehensive case study on using **NMAP (Network Map
 
 ### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/<omkarejjagirii>/NMAP-Metasploitable2-CaseStudy.git
+git clone https://github.com/<omkarejjagirii>/NMAP.git
 ```
 
 ### **Step 2: Read the Case Study**
